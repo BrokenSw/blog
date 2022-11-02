@@ -302,8 +302,8 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: E21jkonIOaLp1k9FbxVKJdU8-9Nh9j0Va
-  appKey: iTdYUYqRne3WHViAjz6zKiaM
+  appId: 
+  appKey: 
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
