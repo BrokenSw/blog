@@ -36,4 +36,6 @@ jobs:
           npm install
       - name: Deploy blog
         run: |
-          hexo version
+          hexo clean
+          hexo g
+          hexo d
