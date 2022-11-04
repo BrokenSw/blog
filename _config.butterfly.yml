@@ -636,7 +636,7 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub: 
-    - 'An inch of time is an inch of gold'
+    - 'Broken sword recasting  The knight backed'
 
 # Loading Animation (加載動畫)
 preloader: true
