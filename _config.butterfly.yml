@@ -80,7 +80,7 @@ favicon: /img/favicon.ico
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/shallowhui/cdn@master/avatar.png
+  img: /img/blog头像.jpg
   effect: false
 
 # Disable all banner image
